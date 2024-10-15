@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(250, 255, 255);
+    color: rgb(17, 18, 19);
+    text-align: justify;
+}
+
+.col-sm-6{
+    background-color: blue;
+    color: black;
+}
+
+.col-sm-4{
+    background-color: rgb(81, 255, 0);
+    color: black;
+}
+
+.col-sm-2{
+    background-color: rgb(0, 247, 255);
+    color: black;
+}
+
+.col-sm-8{
+    background-color: rgb(77, 5, 77);
+    color: black;
+}
+
+.col-sm-4{
+    background-color: rgb(2, 204, 63);
+    color: black;
+}    
